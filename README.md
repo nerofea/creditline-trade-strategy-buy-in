@@ -51,7 +51,7 @@ This project is a **Solana-based financial primitive** developed for the **Rekto
 
 ---
 
-## 🤝 For Rektoff Hackathon
+## 🤝 For Rektoff Bootcamp
 
 This project is built for the application to **Rektoff Bootcamp** to showcase real-world usage of **Solana smart contracts**, **financial layering**, and **on-chain portfolio strategies**.
 
@@ -62,4 +62,9 @@ This project is built for the application to **Rektoff Bootcamp** to showcase re
 MIT License — Use it, fork it, wreck it. Just give credit to Nerofea - tag on X @NerofeaOfficial.
 
 ---
+
+Check out the app and how it looks like: ![Creditline trade strategy buy in dashboard](https://github.com/user-attachments/assets/b7457ca9-91fb-4624-bb91-a87ce97638fb)
+
+Check out the UML diagram of the Solana program invocations ![Creditline Trade Strategy Buy-in Program Solana FFF Rust Anchor UML Technical Diagram](https://github.com/user-attachments/assets/04832a24-11f4-4a6c-83bb-b2a35c9b93d2)
+
 
